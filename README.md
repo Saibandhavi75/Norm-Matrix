@@ -13,6 +13,11 @@ To write a program to find the 2-norm of the matrix and display the result in tw
 	4. Print the norm of the matrix in two decimal places.
 ## Program:
 ```
+
+
+
+
+
 '''
 Program to find 2-norm of a matrix.
 Developed by: A.sai bandhavi
@@ -24,6 +29,10 @@ ans=np.linalg.norm(n,2)
 b="{:.2f}".format(ans)
 print(b)
 ```
+
+
+
+
 ## Sample Input and Output:
 ![norm1](https://github.com/Saibandhavi75/Norm-Matrix/blob/main/2%20norm%20of%20the%20matrix.PNG?raw=true)
 
